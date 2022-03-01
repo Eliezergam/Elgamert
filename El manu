@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8>
+    <meta http-equiv="x-UA-compatible" content="IE-edge">
+    <meta name="viewport" content="width=device=width, initial-scale=1.0">
+    <title> We always want to help </title>
+    
+    <link rel="stylesheet" href="grafi.css" type="text/css"/>
+
+                  
+    </head>
+<style type="text/css">
+
+/* COLOR DE LA PAJINA */
+  body {
+    color: purple;
+    background-color: #00A4FF }
+    
+
+    .clsVal2 {
+    border: 8px solid gray;
+    }
+    
+    
+
+        p { 
+              margin:10px;
+              display:block; 
+              white-space: pre; 
+              background:white ; 
+              color: #90ccf4; 
+              font: 1px ; 
+              font-family: 'Markazi Text', serif;
+              padding-left: 0px; 
+              border:2px solid #90ccf4;
+              border-radius: 12px;
+            }
+        h1{
+            background-color:#90ccf4;
+            color:white;
+            text-align: center;
+            border-radius:8px;
+            font-family: 'Fugaz One', cursive;
+        }
+        #OFRESE{
+            font-family: 'Fugaz One', italic;
+            color:#90ccf4;
+            padding-left:10px;
+            background-color: white;
+            font-size: 20px;
+        }
+        a{
+            color:#f90ccf4;
+            font-family: 'Raleway',Sans-serif;
+            font-size: 25px;
+            font-weight:bolder;
+            display:block;
+            background:white ; 
+            letter-spacing:1.px;
+            text-align:center;
+            margin-top:10px;
+            margin-bottom:15px;
+        }
+        img{
+            color:#90ccf4;
+            background-color: white;
+            font-size: 20px;
+            text-align:center;
+            font-weight:bolder;
+            display:block;
+            border:2px solid #90ccf4;
+
+        }
+        h1{
+            background-color: #90ccf4;
+            color:white;
+            font-family: 'Markazi Text', serif;
+            font-size: 21px;
+            padding-bottom: 5px;
+            padding-top: 5px;
+            padding-left:5px;
+        }
+        
+        #OFRESE{
+            background-color: #90ccf4;
+            color:white;
+            font-family: 'Markazi Text', serif;
+            font-size: 21px;
+            padding-bottom: 5px;
+            padding-top: 5px;
+            padding-left:5px;
+        }
+        
+        #OFRESE .first em {
+    color: red; 
+    background-color:blue
+}
+
+
+            #OFREE{
+   
+   
+   font-family:impact;
+   
+   
+   
+   
+   background-size:80% 100%;
+   
+   font-size: 21px;
+   
+   background-repeat:no-repeat;
+   
+   background-clip:text;
+   
+   -webkit-background-clip:text;
+   
+   color:blue;
+   
+   animation:shine 4s linear infinite;
+   
+   
+   
+}
+
+        }
+        
+        #OFREE {
+    color: red; 
+    background-color:blue
+}
+
+
+#pa{
+   
+   
+   font-family:impact;
+   
+   
+   
+   
+   background-size:80% 100%;
+   
+   font-size: 21px;
+   
+   background-repeat:no-repeat;
+   
+   background-clip:text;
+   
+   -webkit-background-clip:text;
+   
+   color:blue;
+   
+   animation:shine 4s linear infinite;
+   
+   
+   
+}
+
+#OFREE {
+   border: 7px solid;
+   color: red;
+  }
+  
+  
+#gam {
+   columns: 50px 3;
+   -webkit-columns: 50px 3;
+   -moz-columns: 50px 3;
+   -o-columns: 50px 3;
+   -ms-columns: 50px 3;
+  }
+    
+    
+    
+    
+  </style>
+    
+    <body>
+    <script src="./grafica.js"></script>
+  
+  
+  <div id="OFREE">
+   <p style="color:red; font-size:24px">ELIEZER RIVERA</p>
+       <h1>BLOGS</h1> 
+       <hr>
+<div id="am">
+                 <a href="https://www.facebook.com/eliezer.rivera.1485 ">FACEBOOK</a>
+
+     
+  
+    <hr>
+    
+ <a href="https://Wa.me/19342228063?text=hola ">WhatsApp</a>
+  
+      
+<hr>
+<h4> <a href="https://t.me/WorldPremiumChat ">GRTELEGRAM</a>
+<hr>
+</h4>
+<h4>
+ <a href="https://www.instagram.com/eliezer_river_19">ISTAGRAM</a>
+  
+  
+  </h4>
+  
+  </div>
+  
+  <hr>
+   <p> EL AMINISTRADOR DE ESTE GRUPO DE </p>
+   <p> TELEGRAM OFRESE </p>
+  </div>
+  
+  <hr>
+  
+  <div id="OFRESE">
+  
+    <li> APK MODIFICADAS </li>
+   <li> CUENTAS DE XBOX CON GAME PAS </li>
+   <li class="first"> CUENTAS DE <em> NETFLIX </em></li>
+   <li> ° TU VERAS EL RESTO ° </li>
+   </div>
+   
+   <hr>
+
+
+      
+          </body>
+          
+          
+          <body>
+          
+
+            <div class="clsVal1">NO COMPATIR ESTE ARCHIVO</div>
+            <hr>
+            <div class="clsVal2">La informacion proporcionada es asi por no ariesgarnos</div>
+          
+          
+          </body>
+          
+          
+   
+</html>
